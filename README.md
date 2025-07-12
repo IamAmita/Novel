@@ -5,7 +5,7 @@ This project is for storing settings and stories of original novels.
 
 ## 作品概要
 
-- **タイトル**：Ray  
+- **タイトル**：Ray 
 - **ジャンル・テーマ**：学園ファンタジー
 
 ### 作品のテーマ
